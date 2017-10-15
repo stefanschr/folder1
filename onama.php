@@ -1,0 +1,1 @@
+<center><section ime="onama"></section></center>
